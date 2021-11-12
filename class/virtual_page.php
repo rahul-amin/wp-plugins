@@ -1,4 +1,4 @@
-
+<?php
 $x_virtual_page = new rpf_virtual_page();
 
 class rpf_virtual_page {
